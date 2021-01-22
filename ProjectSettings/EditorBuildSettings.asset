@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu 3D.unity
+    guid: d47d76216fdd6c5449ff1bda9b338707
+  - enabled: 1
+    path: Assets/Scenes/SELENA VR.unity
+    guid: 76a6db3a074ba7f4096282222f381952
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ae3a9c70d29251e44945573578cda9e4, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: a62e21a3db22af645aedfe2ddbe27798, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3eae0ba2c013e7e4da152a6a5e366d2c, type: 2}
